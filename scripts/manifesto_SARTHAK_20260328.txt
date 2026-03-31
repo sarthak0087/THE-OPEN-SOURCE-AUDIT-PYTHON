@@ -1,0 +1,12 @@
+=== MY OPEN SOURCE MANIFESTO ===
+Generated on: 28 March 2026
+Author: SARTHAK
+
+Every day, I rely on Python — a tool built not by one company for profit,
+but by a community of people who believed that software should be free.
+To me, freedom means Choice: the ability to inspect, to change,
+to share, and to improve. One day, I will build An open-source AI-powered education platform tailored for personalized learning. and release
+it openly, so that someone I will never meet can stand on the
+foundation I helped lay — just as I stand on the work of others.
+
+Open source is not just a licence. It is a commitment.
